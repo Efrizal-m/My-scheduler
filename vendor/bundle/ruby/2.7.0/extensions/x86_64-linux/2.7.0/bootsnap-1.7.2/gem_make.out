@@ -1,15 +1,15 @@
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210308-49511-77m9ol.rb extconf.rb
+current directory: /home/blacklist/Documents/portofolio/rails/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210309-51954-1d8ux55.rb extconf.rb
 creating Makefile
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+current directory: /home/blacklist/Documents/portofolio/rails/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
 make "DESTDIR=" clean
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+current directory: /home/blacklist/Documents/portofolio/rails/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
 make "DESTDIR="
 compiling bootsnap.c
 linking shared-object bootsnap/bootsnap.so
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+current directory: /home/blacklist/Documents/portofolio/rails/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210308-49511-1pq0ypk/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210309-51954-1k0t6e5/bootsnap

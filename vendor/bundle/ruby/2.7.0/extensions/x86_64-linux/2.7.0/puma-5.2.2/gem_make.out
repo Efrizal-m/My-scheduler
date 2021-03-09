@@ -1,5 +1,5 @@
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210308-49511-lucqcg.rb extconf.rb
+current directory: /home/blacklist/Documents/portofolio/rails scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20210309-59075-1kxribi.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -10,16 +10,16 @@ checking for X509_STORE_up_ref()... yes
 checking for SSL_CTX_set_ecdh_auto(NULL, 0) in openssl/ssl.h... yes
 creating Makefile
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+current directory: /home/blacklist/Documents/portofolio/rails scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
 make "DESTDIR=" clean
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+current directory: /home/blacklist/Documents/portofolio/rails scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
 make "DESTDIR="
 compiling http11_parser.c
 compiling mini_ssl.c
 compiling puma_http11.c
 linking shared-object puma/puma_http11.so
 
-current directory: /home/blacklist/Documents/portofolio/My-rails-scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
+current directory: /home/blacklist/Documents/portofolio/rails scheduler/rails-scheduler-server/vendor/bundle/ruby/2.7.0/gems/puma-5.2.2/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20210308-49511-1u4104q/puma
+/usr/bin/install -m 0755 puma_http11.so ./.gem.20210309-59075-13hsmb6/puma
